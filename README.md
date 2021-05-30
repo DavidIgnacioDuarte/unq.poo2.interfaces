@@ -37,6 +37,22 @@ Esto es así, al igual que en el lenguaje **Wollok**, ya que los mismos no son  _
 
 
 
+###Consignas
+
+1. El mercado central necesita un sistema para el manejo de su caja y ud. es el encargado de diseñarlo e implementarlo. La especificación
+obtenida a través del analista funcional plantea que el funcionamiento de las cajas es sencillo: se registran los productos que desea adquirir el
+cliente y se obtiene el monto total a pagar que luego se informa al cliente. En particular, registrar un producto significa consultarle su precio para
+acumularlo en el monto a pagar y decrementar el stock existente de ese producto. El mercado diferencia a los productos de cooperativas de los
+productos de empresas tradicionales. La diferencia principal es que el producto de cooperativa aplica a su precio un descuento del 10%, en
+concepto de IVA, de su precio base.
+
+
+*  Diseñe la solución con un diagrama de clases UML.
+
+* Implemente su diseño en Java.
+
+* Cree tests que verifiquen el correcto funcionamiento de su implementación.
+
 
 
 
