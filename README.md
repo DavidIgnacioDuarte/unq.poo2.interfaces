@@ -37,7 +37,7 @@ Esto es así, al igual que en el lenguaje **Wollok**, ya que los mismos no son  _
 
 
 
-###Consignas
+### Consignas
 
 1. El mercado central necesita un sistema para el manejo de su caja y ud. es el encargado de diseñarlo e implementarlo. La especificación
 obtenida a través del analista funcional plantea que el funcionamiento de las cajas es sencillo: se registran los productos que desea adquirir el
